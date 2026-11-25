@@ -1,0 +1,20 @@
+# Archivos generados por Maven
+target/
+
+# Configuración de editores
+.vscode/
+.idea/
+*.iml
+
+# Credenciales y archivos privados
+.env
+.env.*
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
